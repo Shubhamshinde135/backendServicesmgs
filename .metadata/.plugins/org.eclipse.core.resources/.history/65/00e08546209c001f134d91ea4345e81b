@@ -1,0 +1,5 @@
+package com.mgstech.filter;
+
+public class ApplicationFilter {
+
+}

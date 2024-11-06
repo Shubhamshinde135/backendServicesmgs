@@ -1,0 +1,5 @@
+package com.mgstech.messagingUtil;
+
+public class SimpleSendTextMail {
+
+}
